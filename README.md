@@ -14,16 +14,16 @@ Table of Contents
 * Stacks
 * Linked Lists
 
-Arrays & Strings
+Arrays & Strings:
 Solutions for array and string problems.
 
-Basic Algorithms
+Basic Algorithms:
 Solutions for basic algorithm problems.
 
-Stacks
+Stacks:
 Solutions for stack-based problems.
 
-Linked Lists
+Linked Lists:
 Solutions for linked-list problems.
 
 
